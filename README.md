@@ -1,4 +1,4 @@
-# jumia-product-scraper
+# Jumia-product-scraper
 
 #Jumia Product Scraper
 
