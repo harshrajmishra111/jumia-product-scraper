@@ -47,3 +47,4 @@ if __name__ == "__main__":
         save_to_csv(scraped_data, filename)
     else:
         print("No data scraped. Exiting...")
+        
