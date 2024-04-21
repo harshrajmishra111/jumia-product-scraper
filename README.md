@@ -39,4 +39,5 @@ Make sure you have a stable internet connection while running the script.
 The script may take some time to execute depending on the internet speed and the number of products found.
 Ensure that the country code provided is correct to get accurate results.
 
+<img width="1050" alt="Screenshot 2024-04-19 at 11 21 29 AM" src="https://github.com/harshrajmishra111/jumia-product-scraper/assets/142572814/947b80d6-7722-4747-9875-7ec0fbf9121d">
 
