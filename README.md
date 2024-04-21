@@ -1,5 +1,3 @@
-<img width="1395" alt="Screenshot 2024-04-19 at 11 08 48 AM" src="https://github.com/harshrajmishra111/jumia-product-scraper/assets/142572814/099837a4-0df3-430d-810b-2999e20c3387"># Jumia-product-scraper
-
 #Jumia Product Scraper
 
 Overview
@@ -39,5 +37,9 @@ Make sure you have a stable internet connection while running the script.
 The script may take some time to execute depending on the internet speed and the number of products found.
 Ensure that the country code provided is correct to get accurate results.
 
-<img width="1050" alt="Screenshot 2024-04-19 at 11 21 29 AM" src="https://github.com/harshrajmishra111/jumia-product-scraper/assets/142572814/947b80d6-7722-4747-9875-7ec0fbf9121d">
+
+<img width="781" alt="Screenshot 2024-04-19 at 11 04 38 AM" src="https://github.com/harshrajmishra111/jumia-product-scraper/assets/142572814/050190f5-1057-4395-bc33-b74167de3d38">
+
+<img width="1395" alt="Screenshot 2024-04-19 at 11 08 48 AM" src="https://github.com/harshrajmishra111/jumia-product-scraper/assets/142572814/099837a4-0df3-430d-810b-2999e20c3387"># Jumia-product-scraper
+
 
