@@ -46,5 +46,5 @@ if __name__ == "__main__":
         filename = f"{product_name.replace(' ', '_')}_data.csv"
         save_to_csv(scraped_data, filename)
     else:
-        print("No data scraped. Exiting...")
+        print("No data scraped. Exiting !!!")
         
